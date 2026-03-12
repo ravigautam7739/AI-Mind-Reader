@@ -52,7 +52,7 @@ You can download Python from the official website.
 1️⃣ Download or clone the repository
 
 ```
-git clone https://github.com/yourusername/ai-mind-reader.git
+[git clone https://github.com/yourusername/ai-mind-reader.git](https://github.com/ravigautam7739/AI-Mind-Reader)
 ```
 
 2️⃣ Open the project folder
